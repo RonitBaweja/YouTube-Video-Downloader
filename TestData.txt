@@ -1,0 +1,17 @@
+**This includes all the links that I used to test this project. Feel free to use any other links**
+
+
+resolutions = ["1080p", "720p", "480p", "360p","240p","144p"]   #Creates a list of available resolutions.
+format_options = ['mp4', 'webm', 'mp3']    #Creates a list of available format options.
+
+video_download_test_link = "https://www.youtube.com/watch?v=tWoo8i_VkvI"
+video_download_test_link_format = {'res':'360p','format':'mp4'}
+
+playlist_download_test_link = "https://www.youtube.com/playlist?list=PLASgwrUgluz4zpvSqx2Ngh-yh3IrG3vpn"
+playlist_download_test_link_format = {'res':'360p','format':'mp4'}
+
+video_info_test_link = "https://www.youtube.com/watch?v=Miydkti_QVE&t=131s"
+
+playlist_info_test_link = "https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg"
+
+channel_info_test_link = "https://www.youtube.com/@CodeWithHarry"
